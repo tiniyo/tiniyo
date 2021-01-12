@@ -1,7 +1,7 @@
 # tiniyo
 [![Header](https://avatars0.githubusercontent.com/u/50044928?s=400&u=3485a6eeaa4d7d0c217ebefec797d52f0aa5a201&v=4)](https://www.tiniyo.com/)<!-- If you want the template for my gif, email me! -->
 
-### Languages
+### SMS
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
@@ -12,7 +12,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 
-### Technologies
+### Voice
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=fff)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=CircleCI&logoColor=fff)
@@ -25,7 +25,7 @@
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
 
-### Full Stack Projects
+### Verify
 
 [![My Website](https://img.shields.io/badge/-🧬%20My%20Website-000?)](https://github.com/adamalston/v2)
 [![COVID-19 Dashboard](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000?)](https://github.com/adamalston/COVID-19-Dashboard)
@@ -35,7 +35,18 @@
 [![Voice Poker](https://img.shields.io/badge/-🔊%20Voice%20Poker-000?)](https://github.com/adamalston/Poker)
 [![PokémonGo Map](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000?)](https://github.com/adamalston/PokemonGo-Map)
 
-### Cybersecurity Projects
+### Calltracking
+
+[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
+[![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
+[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+
+### Callcenter
 
 [![Heartbleed](https://img.shields.io/badge/-🩸%20Heartbleed-000?)](https://github.com/adamalston/Heartbleed)
 [![SYN Flood](https://img.shields.io/badge/-🌊%20SYN%20Flood-000?)](https://github.com/adamalston/SYN-Flood)
